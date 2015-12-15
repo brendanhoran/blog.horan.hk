@@ -4,7 +4,7 @@
 
 This git repo holds the config files, theme files and plugin files I use to generate the site blog.horan.hk.
 
-## Dependancys
+### Dependancys
 * Pelican 3.6.x
 * BeautifulSoup4
 * Markdown
