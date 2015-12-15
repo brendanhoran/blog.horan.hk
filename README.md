@@ -4,6 +4,13 @@
 
 This git repo holds the config files, theme files and plugin files I use to generate the site blog.horan.hk.
 
+### Dependancys
+* Pelican 3.6.x
+* BeautifulSoup4
+* Markdown
+
+For a full list of python depances see [Pelican install guide](http://docs.getpelican.com/en/3.6.3/install.html)
+
 ### Directory overview
 
 
