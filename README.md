@@ -24,6 +24,15 @@ This git repo holds the config files, theme files and plugin files I use to gene
   * Updated tipue search to v5 to resolve search page generation issue
 
 ## Work flow for a new plug post
+This section makes use of the included "Makefile".     
+Only change to the Makefile was :   
+```
+SSH_HOST=
+SSH_PORT=
+SSH_USER=
+SSH_TARGET_DIR=
+```
+
 
 1) Write a new article.
    vim content/2015-12-12.new-blog-post.mk      
@@ -37,7 +46,7 @@ This git repo holds the config files, theme files and plugin files I use to gene
    ```
 2) Test it localy     
   run : "make html"     
-  run : "make server"    
+  run : "make serve"    
   View in web browser "http://localhost:8000"    
   
 3) Publish to web server    
