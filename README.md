@@ -6,15 +6,15 @@ This git repo holds the config files, theme files and plugin files I use to gene
 
 ### Directory overview
 
-->
+
 * README.md -- This file
 * pelicanconf.py -- Pelican config + dev settings
 * publishconf.py -- Pelican config (inherited) + prod settings
 * plugins
-  -> * tipue_search.py -- Tipue search plugin
-  -> * pelican_comment_system -- Static pelican comment plugin (unmodified from upstream)
+  * tipue_search.py -- Tipue search plugin
+  * pelican_comment_system -- Static pelican comment plugin (unmodified from upstream)
 * theme
-  -> * pelican-bootstrap3 -- My current theme (modified from upstream)
+  * pelican-bootstrap3 -- My current theme (modified from upstream)
 
 ### Details on modfictions
 
