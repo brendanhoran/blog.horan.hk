@@ -47,7 +47,7 @@ SSH_TARGET_DIR= /dev/null
    ```
    title: Check out my new post
    Category:  howto
-   Slug: check-my-post
+   slug: check-my-post
    date: 2015-12-12
    summary: How to write the headers for a new post on my blog
    ```
