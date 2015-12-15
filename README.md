@@ -34,7 +34,7 @@ SSH_TARGET_DIR=
 ```
 
 
-1) Write a new article.
+1) Write a new article.     
    vim content/2015-12-12.new-blog-post.mk      
    The header should contain the follwoing :     
    ```
