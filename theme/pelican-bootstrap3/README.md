@@ -5,8 +5,8 @@ higher. I will try to regularly update this theme with new features and newer ve
 
 ## CONTRIBUTING
 
-**I forked this theme and started ot edit it**   
-Edits include
+**I forked this theme and started to edit it for my needs**   
+Edits include :    
 * Ripping out social media, disqis rubbish (work in pogress)
 * updating tipue seatch to v5
 
