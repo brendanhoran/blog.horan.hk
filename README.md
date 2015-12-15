@@ -22,3 +22,25 @@ This git repo holds the config files, theme files and plugin files I use to gene
 * pelican-bootstrap3
   * Ripped out any social media rubbish (facebook, twitter etc) [Ongoing effort]
   * Updated tipue search to v5 to resolve search page generation issue
+
+## Work flow for a new plug post
+
+1) Write a new article.
+   vim content/2015-12-12.new-blog-post.mk
+   The header should contain the follwoing :
+   ```
+   title: Check out my new post
+   Category:  howto
+   Slug: check-my-post
+   date: 2015-12-12
+   summary: How to write the headers for a new post on my blog
+   ```
+2) Test it localy
+  run : "make html"
+  run : "make server"
+  View in web browser "http://localhost:8000"
+  
+3) Publish to web server
+  Run : "make publish"
+  Done
+
