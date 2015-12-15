@@ -30,7 +30,7 @@ For a full list of python depances see [Pelican install guide](http://docs.getpe
   * Ripped out any social media rubbish (facebook, twitter etc) [Ongoing effort]
   * Updated tipue search to v5 to resolve search page generation issue
 
-## Work flow for a new plug post
+## Work flow for a new blog post
 This section makes use of the included "Makefile".     
 Only change to the Makefile was :   
 ```
