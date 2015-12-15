@@ -5,6 +5,11 @@ higher. I will try to regularly update this theme with new features and newer ve
 
 ## CONTRIBUTING
 
+** I forked this theme and started ot edit it**
+Edits include
+* Ripping out social media, disqis rubbish (work in pogress)
+* updating tipue seatch to v5
+
 If you want to adjust this theme to your own liking, I encourage you to fork it. This theme has started to gather more
 and more attention in the form of stars and forks. If you make improvements that are useful to others and can make the
 theme better in general **please don't hesitate to make a pull request**. For contributing guidelines, [look here](CONTRIBUTING.md)
