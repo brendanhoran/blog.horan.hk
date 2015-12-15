@@ -27,10 +27,10 @@ This git repo holds the config files, theme files and plugin files I use to gene
 This section makes use of the included "Makefile".     
 Only change to the Makefile was :   
 ```
-SSH_HOST=
-SSH_PORT=
-SSH_USER=
-SSH_TARGET_DIR=
+SSH_HOST= blog.horan.hk
+SSH_PORT= 22
+SSH_USER= oldmate
+SSH_TARGET_DIR= /dev/null
 ```
 
 
