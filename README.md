@@ -50,6 +50,7 @@ SSH_TARGET_DIR= /dev/null
   View in web browser "http://localhost:8000"    
   
 3) Publish to web server    
-  Run : "make publish"   
+  run : "make publish"   
+  run : "make rsync_upload"    
   Done   
 
