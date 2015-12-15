@@ -53,7 +53,7 @@ PELICAN_COMMENT_SYSTEM = True
 PELICAN_COMMENT_SYSTEM_FEED = None
 PELICAN_COMMENT_SYSTEM_FEED_ALL = None
 
-# Code block stlye
+# Code block style
 PYGMENTS_STYLE = 'default'
 # Set pygments options to disable all syntax highlights by default
 MD_EXTENSIONS = ['codehilite(noclasses=True, pygments_style=default, guess_lang=false)', 'extra']
