@@ -29,7 +29,7 @@ THEME = 'theme/pelican-bootstrap3'
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = ['pelican_comment_system', 'tipue_search']
 
-# The following templages need tp be generated for the search to work
+# The following templages need to be generated for the search to work
 DIRECT_TEMPLATES = (('categories', 'archives', 'search', 'index'))
 
 # Disable categories from the top menu
