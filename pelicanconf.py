@@ -26,11 +26,14 @@ AUTHOR_SAVE_AS = ''
 THEME = 'theme/pelican-bootstrap3'
 
 # Enable plugins
-PLUGIN_PATHS = ["plugins"]
+PLUGIN_PATHS = ['plugins']
 PLUGINS = ['pelican_comment_system', 'tipue_search']
 
-# The following templages need to be generated for the search to work
+# The following templates need to be generated for the search to work
 DIRECT_TEMPLATES = (('categories', 'archives', 'search', 'index'))
+
+# Location for static files, copied to webhost
+STATIC_PATHS = ['76E0A15A-pub-key.txt']
 
 # Disable categories from the top menu
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -40,7 +43,7 @@ SOCIAL =  (('Github', 'https://github.com/brendanhoran'),
           ('Linkedin', 'https://hk.linkedin.com/in/brendan-horan-0910083'),)
 
 # Set site wide license 
-CC_LICENSE = "CC-BY"
+CC_LICENSE = 'CC-BY'
 
 # Disable article tags from appearing in sidebar
 DISPLAY_TAGS_ON_SIDEBAR = False
